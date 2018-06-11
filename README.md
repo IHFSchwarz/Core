@@ -87,4 +87,4 @@ You should have received a copy of the GNU General Public License along with thi
 Images, assets, data, documentation and everything else is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) aka **CC BY-NC-SA 4.0**.
 For further information take a look at the files **LICENSE-code** and **LICENSE-assets**.
 If you want to use our work under a different license, e.g. for further commercial use, please contact us at  rwth-afu [at] online.de or take a look at [AFU RWTH](https://www.afu.rwth-aachen.de/ueber-uns/kontakt).
-Used libraries, projects and artworks and their respective licenses are available in the **LICENSES.md** file.
+Used libraries, projects and artworks and their respective licenses are available in the **LICENSES** file.
